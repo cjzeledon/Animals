@@ -1,1 +1,1 @@
-I will make the Animal folder my local repository that contain multiple folders of animal types and within those folders, I will make text, docs, images files in each of those subfolders
+I will make the Animal folder my local repository that contain multiple folders of animal types and within those folders, I will make text, docs, images files in each of those subfolders. The purpose of this project was learn how to create folders via Terminal and then push those changes to GitHub.
